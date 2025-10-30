@@ -43,8 +43,8 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/VATSIM-Saudi-Arabia
 
-repo_url: https://github.com/VATSIM-Saudi-Arabia/documentation-site
-repo_name: VATSIM-Saudi-Arabia/documentation-site
+repo_url: https://github.com/Saudi-Arabian-vACC/Documentation-Site
+repo_name: Saudi-Arabian-vACC/documentation-site
 extra_css:
   - stylesheets/extra.css
   - stylesheets/theme.css
