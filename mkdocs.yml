@@ -31,7 +31,6 @@ theme:
     - search.highlight
     - search.share
     - content.footer
-    - content.action.edit
 extra:
   social:
     - icon: fontawesome/brands/discord
