@@ -7,4 +7,4 @@ All non-style documentation files in this branch are used only for visual previe
   - Overrides folder
   - Configuration files related to styling (`mkdocs.yml`, `index.md`, etc)
 
-Any other files in this branch are temporary or experimental and must not affect the production repository.
+Any other files in this branch are temporary or experimental and must not affect the main repository.
