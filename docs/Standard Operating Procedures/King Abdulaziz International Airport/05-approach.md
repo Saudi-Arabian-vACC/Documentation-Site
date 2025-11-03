@@ -195,7 +195,7 @@ Controllers must log in the following order to maintain realizm and follow SOPs:
 
 ## 5. General Separation Minimas
 ### 5.1 Surveillance-Based Separation
-Unless specified in 6.1.6.1, aircraft flying within the Jeddah TMA must maintain a horizontal separation of at least **3 nautical miles**. If this distance cannot be achieved, a minimum vertical separation of **1000 feet** should be maintained.
+Unless specified in 6.1.6.1, aircraft flying within the Jeddah TMA must maintain a horizontal separation of at least **5 nautical miles**. If this distance cannot be achieved, a minimum vertical separation of **1000 feet** should be maintained.
 
 Controllers are required to give suitable speed and altitude directives, along with control over the aircraft's lateral path, to guarantee the necessary separation standards are upheld.
 
