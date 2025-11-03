@@ -1,14 +1,3 @@
-/* Table rounded corners */
-:root {
-  --table-border-radius: 0.3rem;
-}
-
-.md-typeset table:not([class]) {
-  border-radius:
-var(--table-border-radius);
-  overflow: hidden;
-}
-
 /* Font boldness */
 .md-typeset h1 {
   font-weight: 800;
