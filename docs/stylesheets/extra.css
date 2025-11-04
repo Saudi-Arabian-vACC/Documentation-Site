@@ -55,32 +55,6 @@ html, body {
   padding-top: 1rem !important;
 }
 
-/* Center tables optionally */
-table {
-  display: table;
-  margin: 0 auto;
-}
-
-.md-typeset__table {
-  width: 100%;
-}
-
-.md-typeset__table table:not([class]) {
-  display: table
-}
-
-blockquote {
-    padding: 1px 2px;
-    margin: 0 0 20px;
-    font-size: 14px;
-    border-left: 5px solid #eee;
-}
-
-img[src*='#center'] { 
-    display: block;
-    margin: auto;
-}
-
 /* Round the search bar edges */
 .md-search__input {
   border-radius: 9999px !important; /* fully pill-shaped */
@@ -93,3 +67,13 @@ img[src*='#center'] {
   overflow: hidden;
   backdrop-filter: blur(6px); /* optional glassy look */
 }
+
+/* Make the first-level items (top-level) bold */
+.md-nav__list > .md-nav__item > .md-nav__link {
+    font-weight: bold;
+  }
+
+  /* Make second-level items normal weight */
+  .md-nav__list > .md-nav__item > nav .md-nav__list > .md-nav__item > .md-nav__link {
+    font-weight: normal;
+  }

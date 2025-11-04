@@ -19,10 +19,6 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
   features:
-    - navigation.footer
-    - navigation.instant
-    - navigation.instant.prefetch
-    - navigation.instant.progress
     - navigation.tabs
     - navigation.path
     - navigation.top
