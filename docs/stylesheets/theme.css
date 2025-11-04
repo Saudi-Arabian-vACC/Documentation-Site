@@ -1,10 +1,10 @@
 :root > * {
-  --md-primary-fg-color: #162d08;
+  --md-primary-fg-color: #1E3B29;
 }
 
 /* Light theme */
 [data-md-color-scheme="default"] {
-  --md-primary-fg-color: #162d08;
+  --md-primary-fg-color: #1E3B29;
   --md-accent-fg-color: #025c20;
   --md-default-bg-color: #F2F2F2;
   --md-default-fg-color: #111;
@@ -17,7 +17,7 @@
 
 /* Dark theme */
 [data-md-color-scheme="slate"] {
-  --md-primary-fg-color: #162d08;
+  --md-primary-fg-color: #1E3B29;
   --md-accent-fg-color: #025c20;
   --md-default-bg-color: #181818;
   --md-default-fg-color: #F2F2F2;

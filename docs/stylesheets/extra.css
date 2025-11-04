@@ -11,14 +11,6 @@ html, body {
   padding-right: 1.5rem;
 }
 
-/* Full-width inner container */
-.md-main__inner {
-  max-width: 75% !important;
-  padding-left: 0 !important;
-  padding-right: 0 !important;
-  padding-bottom: 2.5% !important;
-}
-
 /* Page content padding */
 .md-content {
   max-width: 100% !important;
