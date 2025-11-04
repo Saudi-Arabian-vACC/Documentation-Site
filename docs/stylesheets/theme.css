@@ -15,6 +15,11 @@
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
 }
 
+[data-md-color-scheme="default"] .md-tabs {
+    background: var(--md-default-bg-color);
+    color: #111;
+}
+
 /* Dark theme */
 [data-md-color-scheme="slate"] {
   --md-primary-fg-color: #1E3B29;
@@ -26,4 +31,9 @@
 [data-md-color-scheme="slate"] .md-content {
   background-color: #242424;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+}
+
+[data-md-color-scheme="slate"] .md-tabs {
+    background: var(--md-default-bg-color);
+    color: #F2F2F2;
 }
