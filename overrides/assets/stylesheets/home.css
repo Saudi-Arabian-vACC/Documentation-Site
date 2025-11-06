@@ -55,6 +55,11 @@
     box-shadow: none !important;
 }
 
+/* index permeant tabs color */
+.md-tabs {
+  color: #F2F2F2 !important;
+}
+
 .hero {
     color: var(--md-primary-bg-color);
     display: flex;
