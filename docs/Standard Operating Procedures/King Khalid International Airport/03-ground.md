@@ -147,8 +147,8 @@ Simultaneous pushbacks from neighboring stands may be allowed if aircraft are di
 |:--------------------:|:--------------------:|:-------------------------:|:------------:|:--------------------:|
 | **Aprons 2,3,4 & 5** |         G1/G         |           T,R,S           |    T/R/S, G  |      _Passing T_     |
 |      **Apron 6**     |         G1/G         |            V/F            |    V/F, G1   |      _Immediate_     |
-|      **Apron C**     |         G1/G         |             N             |     N, G     |     _Passing by T_   |
-|   **Aprons 7 & 9**   |         G1/G         |            J/Q            |  A, T, G, G1 |      _Passing T_     |
+|      **Apron C**     |         G1/G         |             N             | N/G/P/F/T, G |     _Passing by T_   |
+|   **Aprons 7 & 9**   |         A1/A         |            J/Q            |       A      |      _Passing T_     |
 |      **Apron G**     |          H1          |             H2            |   H2, H, H1  |    _Taxing on H_     |
 
 ##### 3.2.1.2 15s Departure Taxi Procedures
