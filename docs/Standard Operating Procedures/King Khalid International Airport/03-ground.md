@@ -181,12 +181,12 @@ Table 3.2.1.1 - 33s Semi-mixed Operations Departure Taxi Procedures
 
 ##### 3.2.1.4 15s Departure Taxi Procedures
 
-|         **Type**         |    **Taxi to**   |            **Taxi via**            |   **Initial Taxi By TWR**  |
-|:------------------------:|:----------------:|:----------------------------------:|:--------------------------:|
-|**International Airlines**| Aprons 2,3,4 & 5 |               A, P, E              |   A, **Hold Short of P**   |
-|  **Domestic & Lowcost**  |      Apron 6     |               A, T, D              |   A, **Hold Short of T**   |
-|     **Royal Aprons**     |    Aprons 7 & 9  |               A, J/Q               |             N/A            |
-|     **Cargo Aprons**     |      Apron C     |               A, P, E              |   A, **Hold Short of P**   |
+|       **Apron**      | **Holding Point(s)** | **Apron Exit Taxiway(s)** | **Taxi via** | **Handoff to Tower** |
+|:--------------------:|:--------------------:|:-------------------------:|:------------:|:--------------------:|
+| **Aprons 2,3,4 & 5** |         G7/G        |            T,R,S           |    T/R/S, G  |      _Passing P_     |
+|      **Apron 6**     |         G7/G        |             V/U            |     V/U, G   |      _Passing P_     |
+|      **Apron C**     |         G7/G        |              N             |       N      |      _Immediate_     |
+|      **Apron G**     |          H4         |              H3            |   H3, H, H4  |     _Taxing on H_    |
 
 
 ---
@@ -228,16 +228,6 @@ SMC should promptly assign a stand to an aircraft as soon as it appears on the a
 
 Upon vacating the runway, the Tower controller will instruct the aircraft to follow an initial taxi route and provide the correct ground frequency for communication. Subsequently, the Ground controller is responsible for providing a taxi route that aligns with the prescribed taxiroutes mentioned below.
 
-##### 3.2.5.2 33s SARO Arrival Taxi Procedures
-
-|             **Type**          |    **Taxi to**   |            **Taxi via**            |   **Initial Taxi By TWR**  |
-|:-----------------------------:|:----------------:|:----------------------------------:|:--------------------------:|
-|   **International Airlines**  | Aprons 2,3,4 & 5 |              A, P, E               |   A, **Hold Short of P**   |
-|      **Domestic & Lowcost**   |      Apron 6     |              A, T, D               |   A, **Hold Short of T**   |
-|         **Royal Aprons**      |   Aprons 7 & 9   |              A, J/Q                |             N/A            |
-|         **Cargo Aprons**      |      Apron C     |              A, P, E               |   A, **Hold Short of P**   |
-|      **General Aviation**     |      Apron G     |              A, P, H               |   A, **Hold Short of P**   |
-
 ##### 3.2.5.2 33s Mixed Operations Arrival Taxi Procedures
 
 |    **Apron**    | **Arrival Runway** |          **AIR W Taxi Instructions**         |         **Air E Taxi Instructions**       |     **Handoff to SMC N**    |                          **SMC N Instructions**                          |     **Handoff to SMC S**    |   **SMC S Taxi Instructions**   |
@@ -252,6 +242,22 @@ Upon vacating the runway, the Tower controller will instruct the aircraft to fol
 |   **Apron 6**   |     Runway 33L     |  Vacate A4<br>Taxi A, T<br>*Hold Short of E* |                     -                     |              -              |                                     -                                    | _While taxing on Taxiway T_ | Taxi T, D ***OR*** Taxi T, F, U |
 | **Cargo Apron** |     Runway 33L     |  Vacate A4<br>Taxi A, P<br>*Hold Short of E* |                     -                     | _While taxing on Taxiway P_ |                                 Taxi P, E                                |              -              |                -                |
 |   **GA Apron**  |     Runway 33R     |                       -                      |                Vacate H3/H4               |         Immediately         |                      H3, H2 ***OR*** H4, H, H3, H2                       |              -              |                -                |
+<p style="text-align: center; font-style: italic;">
+Table 3.2.5.2 - 33s Mixed Operations Arrival Taxi Procedures
+</p>
+
+##### 3.2.5.3 33s Semi-mixed Operations Arrival Taxi Procedures
+
+|             **Type**          | **Arrival Runway** |    **Taxi to**   |            **Taxi via**            |   **Initial Taxi By TWR**  |
+|:-----------------------------:|:------------------:|:----------------:|:----------------------------------:|:--------------------------:|
+|   **International Airlines**  |     Runway 33L     | Aprons 2,3,4 & 5 |              A, P, E               |   A, **Hold Short of P**   |
+|      **Domestic & Lowcost**   |     Runway 33L     |      Apron 6     |              A, T, D               |   A, **Hold Short of T**   |
+|         **Royal Aprons**      |     Runway 33L     |   Aprons 7 & 9   |              A, J/Q                |             N/A            |
+|         **Cargo Aprons**      |     Runway 33L     |      Apron C     |              A, P, E               |   A, **Hold Short of P**   |
+|      **General Aviation**     |     Runway 33L     |      Apron G     |              A, P, H               |   A, **Hold Short of P**   |
+<p style="text-align: center; font-style: italic;">
+Table 3.2.5.3 - 33s Semi-mixed Operations Arrival Taxi Procedures
+</p>
 
 ##### 3.2.5.3 15s SARO Arrival Taxi Procedures
 
