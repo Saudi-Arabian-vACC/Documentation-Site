@@ -16,7 +16,7 @@ The **Jeddah Tower (AIR)** is responsible for all aerodrome movements on runways
 
 ---
 
-##  2. Designated Area of Responsibility
+##  2. Designated Areas of Responsibility
 **King Abdulaziz International Airport (OEJN)** features two primary AIR positions, namely **AIR W**, and **AIR E**. The responsibilities and areas of control for each position are outlined as follows:
 ![Loading](imgs/SMC.png)
 
