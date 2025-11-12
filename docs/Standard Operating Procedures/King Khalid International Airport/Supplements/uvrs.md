@@ -3,7 +3,7 @@ title: "Supplement B - Urban Visual Routes (UVRs)"
 ---
 
 !!! success "Covering"
-    This supplement covers the Urban Visual Routes (UVRs) surrounding the Riyadh Control Area (CTA). 
+    This supplement covers the Urban Visual Routes (UVRs) surrounding the Riyadh Control Area (CTR). 
 
 ---
 
