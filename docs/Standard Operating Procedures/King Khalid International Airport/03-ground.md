@@ -302,13 +302,24 @@ Table 3.2.5.4 - 15s Mixed Operations Arrival Taxi Procedures
 ![Loading](imgs/yellow.png)
 
 ##### 3.2.6.2 33 Mixed Operatiions (33s MO) Config
+###### 3.2.6.2.1 Departures/Arrival Flow
 ![Loading](imgs/33mo.png)
+
+###### 3.2.6.2.2 Departures Flow
+![Loading](imgs/33mod.png)
+
+###### 3.2.6.2.3 Arrivals Flow
+![Loading](imgs/33moa.png)
 
 ##### 3.2.6.2 33 DARO Config
 ![Loading](imgs/33saro.png)
 
 ##### 3.2.6.3 15 Mixed Operatiions (15s MO) Config
+###### 3.2.6.3.1 Departures/Arrival Flow
 ![Loading](imgs/15mo.png)
 
-##### 3.2.6.3 15 DARO Config
-![Loading](imgs/15daro.png)
+###### 3.2.6.3.2 Departures Flow
+![Loading](imgs/15mod.png)
+
+###### 3.2.6.3.3 Arrivals Flow
+![Loading](imgs/15moa.png)
