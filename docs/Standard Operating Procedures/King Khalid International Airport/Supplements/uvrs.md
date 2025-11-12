@@ -8,19 +8,26 @@ title: "Supplement B - Urban Visual Routes (UVRs)"
 ---
 
 ## 1. Visual Reference Points (VRPs)
-### 1.1 Visual Reference Points within Riyadh CTA
+### 1.1 Visual Reference Points within Riyadh CTR
 
 |    **Ident**    |                  **Location Geographic**                |  **Radial and distance** | **Coordinates**  |
 |:---------------:|:-------------------------------------------------------:|:------------------------:|:----------------:|
 |      **A**      |                    Kuzam Residential                    | RDL 298 from KIA 6.8 DME | 243623N 0463831E |
 |      **B**      |    Intersection Special Forces Road with king Fahad     | RDL 267 from KIA 9.5 DME | 245305N 0463504E |
 |      **C**      |      Intersection king Salma Road with king Fahad       | RDL 243 from KIA 8.7 DME | 244936N 0463651E |
-|      **D**      |                     Salbuok Bridge                      | RDL 303 from KIA 17.0 DME| 250315N 0463004E |
-|      **H**      |                     Al Rajhi Mosque                     | RDL 176 from KIA 19.0 DME| 244037N 0464644E |
 |      **J**      |                        Janadeiyah                       | RDL 030 from KIA 5.0 DME | 245715N 0464818E |
 |      **K**      |                       Khuzam Oasis                      | RDL 345 from KIA 11.6 DME| 250435N 0464247E |
 |      **L**      |                      Thumamah Road                      | RDL 342 from KIA 15.1 DME| 250737N 0464030E |
 |      **M**      |                     Equestrian Club                     | RDL 007 from KIA 8.3 DME | 250132N 0464637E |
+
+---
+
+### 1.2 Visual Reference Points outside Riyadh CTR
+
+|    **Ident**    |                  **Location Geographic**                |  **Radial and distance** | **Coordinates**  |
+|:---------------:|:-------------------------------------------------------:|:------------------------:|:----------------:|
+|      **D**      |                     Salbuok Bridge                      | RDL 303 from KIA 17.0 DME| 250315N 0463004E |
+|      **H**      |                     Al Rajhi Mosque                     | RDL 176 from KIA 19.0 DME| 244037N 0464644E |
 |      **N**      |                      Malham bridge                      | RDL 312 from KIA 26.9 DME| 251115N 0462333E |
 |      **O**      |    Intersection of Khuris road and eastern ring road    | RDL 179 from KIA 10.2 DME| 244253N 0464542E |
 |      **P**      |Intersection of Eastern Ring Road with Southern ring road| RDL 171 from KIA 15.4 DME| 243749N 0464812E |
@@ -37,3 +44,7 @@ title: "Supplement B - Urban Visual Routes (UVRs)"
 |  **West Gate**  |             Prince Sultan Humanitarian City             | RDL 293 from KIA 14.0 DME| 245911N 0463137E |
 |    **RAJEM**    |                   Rajem intersection                    | RDL 095 from KIA 36.8 DME| 244944N 0472553E |
 |    **MALHAM**   |                          MALHAM                         | RDL 318 from KIA 29.8 DME| 251520N 0462335E |
+
+---
+
+## 3. Urban Visual Routes (UVRs) Chart
